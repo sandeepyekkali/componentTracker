@@ -1,0 +1,6 @@
+{
+    "mernapp": {
+      "mongouri": "mongodb+srv://dom:dom123@cluster0-h0cjn.gcp.mongodb.net/test?retryWrites=true&w=majority",
+      "jwtsecret": "jwt!=@mern"
+    }
+  }
